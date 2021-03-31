@@ -1,6 +1,6 @@
 ![ymTonny Banner](./img/banner.png)
 
-👋 &nbsp;Hey there! I'm ymTonny
+👋 &nbsp;&nbsp;Hey there! I'm ymTonny
 
 ### 👨🏻‍💻 &nbsp;About Me
 
